@@ -1,0 +1,1 @@
+{"name":"@lilka/official-packages","private":true,"type":"module","scripts":{"validate":"node scripts/validate.mjs"}}
